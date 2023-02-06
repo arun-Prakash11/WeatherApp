@@ -7,7 +7,7 @@ Simple Weather app with openweathermap.org API
 The content of ***api_key.json*** should be something like this,
 
     {
-     "api_key": "{Your_API_key}"
+     "api_key": {key}
     }
 
-4805d64e85663a06d3bfd536c5c45564
+
